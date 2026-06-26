@@ -3,6 +3,7 @@ document.addEventListener("DOMContentLoaded", function () {
   const text = document.querySelector(".typing-text");
   const roles = [
     "Java Developer",
+     "Python Developer",
     "Web Designer",
     "Frontend Developer",
     "Backend Developer",
